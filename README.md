@@ -10,3 +10,8 @@ you have and for that, myself and the newbie who will be doing these projects ar
 grateful.
 
 # [Project One](/projectOne)
+- You can change the background color of the body when you click on the button
+- This is a project to help build your confidence on variables, events and functions.
+-I was inspired by a similar project on [JS Beginners](https://jsbeginners.com/change-background-color-project/). You can check it out for more inspiration and steps 
+on how to build a similar project.
+-I also used [stackoverflow](https://stackoverflow.com/questions/14323082/why-doesnt-backgroundcolor-rgba-b-c-work) to learn more on how to use rgb values in JavaScript
