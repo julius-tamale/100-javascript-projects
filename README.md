@@ -13,4 +13,4 @@ scarce and precious time to help out the newbies. I know not everyone can sacrif
 you have and for that, myself and the newbie who will be doing these projects are entirely
 grateful.
 
-## [Project One](/projectOne)
+# [Project One](/projectOne)
