@@ -15,3 +15,7 @@ grateful.
 -I was inspired by a similar project on [JS Beginners](https://jsbeginners.com/change-background-color-project/). You can check it out for more inspiration and steps 
 on how to build a similar project.
 -I also used [stackoverflow](https://stackoverflow.com/questions/14323082/why-doesnt-backgroundcolor-rgba-b-c-work) to learn more on how to use rgb values in JavaScript
+
+
+##NOTE:
+-I didn't know that I couldn't create multiple live pages on the same repo. It will always link to the main repo. So I will be leaving links to the project and also screenshot of the project.
